@@ -1,0 +1,16 @@
+## Integração Continua
+name: Continuous Integration - CI
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+# Teremos várias tarefinhas
+jobs:
+  # O lint é uma tarefinha
+  lint:
+    # TUDO o que vamos fazer, vai rodar numa maquina UBUNTU remota
+    runs-on: ubuntu-latest
+    - name: Comando
+      run: "echo 'Olá pessoas!'"
+
