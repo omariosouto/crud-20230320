@@ -2,6 +2,8 @@
 
 ## Comandos GitHub
 
+- `git init`
+  - Cria a pasta `.git` e inicializa o repositório
 - `git add` (Stage Changes)
   - Adiciona alterações dos arquivos em uma caixinha (Staged Changes)
   - Usando o `git add .`, adicionamos TODOs os arquivos alterados na caixinha
