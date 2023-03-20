@@ -9,8 +9,8 @@ on:
 jobs:
   # O lint é uma tarefinha
   lint:
-    # TUDO o que vamos fazer, vai rodar numa maquina UBUNTU remota
     runs-on: ubuntu-latest
-    - name: Comando
-      run: "echo 'Olá pessoas!'"
+    steps:
+      - name: Comando
+        run: "echo 'Olá pessoas!'"
 
