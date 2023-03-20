@@ -11,6 +11,10 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Comando
         run: "echo 'Olá pessoas!'"
+      - name: Comando
+        run: "npm run lint"
 
