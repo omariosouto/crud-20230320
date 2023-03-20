@@ -4,6 +4,7 @@
   "description": "## Comandos GitHub",
   "main": "crud.js",
   "scripts": {
+    "lint": "eslint .",
     "dev": "nodemon ./crud.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,9 @@
   },
   "homepage": "https://github.com/omariosouto/crud-20230320#readme",
   "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
     "nodemon": "^2.0.21"
   }
 }

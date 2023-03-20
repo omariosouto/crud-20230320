@@ -30,6 +30,12 @@
 - `git clone https://github.com/omariosouto/dicas-github-20230320.git`
   - Devemos usar o comando GitClone apontando para o repositório novo
 
+## Qualidade
+- Linter
+  - [ESLINT](https://eslint.org/docs/latest/use/getting-started)
+    - [Padrão Airbnb](https://github.com/airbnb/javascript)
+ 
+
 ## Referências
 
 - [Melhorando o README do Projeto](https://www.youtube.com/watch?v=yMRSDdifGW8)
