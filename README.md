@@ -17,6 +17,8 @@
 - `git push -u origin main`
   - origin: Pra onde vai (no caso ORIGIN é o GitHub adicionado no REMOTE)
   - main: Ramificação/Branch que queremos atualizar
+- `git pull`
+  - O git pull, pega as alterações que estão no GITHUB e traz para o seu projeto localmente
 
 ### E se eu comecei tudo pelo GitHub?
 - `git clone https://github.com/omariosouto/dicas-github-20230320.git`
