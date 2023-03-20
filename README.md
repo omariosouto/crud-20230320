@@ -19,6 +19,12 @@
   - main: Ramificação/Branch que queremos atualizar
 - `git pull`
   - O git pull, pega as alterações que estão no GITHUB e traz para o seu projeto localmente
+- `git checkout -b nome-da-branch`
+  - Cria uma nova branch e já muda para ela
+- `git checkout nome-da-branch`
+  - Muda para uma branch existente
+- `git merge nome-da-branch`
+  - Mescla a branch atual com a branch que você passou como parâmetro
 
 ### E se eu comecei tudo pelo GitHub?
 - `git clone https://github.com/omariosouto/dicas-github-20230320.git`
@@ -28,6 +34,8 @@
 
 - [Melhorando o README do Projeto](https://www.youtube.com/watch?v=yMRSDdifGW8)
 - [Link do DISCORD](https://mariosouto.com/discord/)
+- [Como ver a árvore de commits?](https://github.com/omariosouto/crud-20230320/network)
+  - Dica do **@BdSCunha**!
 
 ### Programas
 - [Git](https://git-scm.com/downloads)
