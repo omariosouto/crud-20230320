@@ -27,7 +27,7 @@
 ## Referências
 
 - [Melhorando o README do Projeto](https://www.youtube.com/watch?v=yMRSDdifGW8)
-- [Link do DISCORD](mariosouto.com/discord)
+- [Link do DISCORD](https://mariosouto.com/discord/)
 
 ### Programas
 - [Git](https://git-scm.com/downloads)
