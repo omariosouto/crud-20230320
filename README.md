@@ -43,6 +43,7 @@
 - [Como ver a árvore de commits?](https://github.com/omariosouto/crud-20230320/network)
   - Dica do **@BdSCunha**!
 - [Dicas para ver o Git no mundo real](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6)
+- [Link dos Slides](https://docs.google.com/presentation/d/1sVTGebgqT8rRcKn8zE_fNBXpVNYWd_R6ZPPmOt_lHtQ/edit#slide=id.g1dd04415583_1_425)
 
 ### Programas
 - [Git](https://git-scm.com/downloads)
