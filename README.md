@@ -14,7 +14,9 @@
   - Nos mostra quais códigos/arquivos estamos guardando para mandar pro GitHub
 - `git remote add origin git@github.com:omariosouto/crud-20230320.git`
   - Sincroniza nosso projeto LOCAL com o REMOTO no GitHub
-
+- `git push -u origin main`
+  - origin: Pra onde vai (no caso ORIGIN é o GitHub adicionado no REMOTE)
+  - main: Ramificação/Branch que queremos atualizar
 
 ## Referências
 
