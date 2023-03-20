@@ -36,6 +36,7 @@
 - [Link do DISCORD](https://mariosouto.com/discord/)
 - [Como ver a árvore de commits?](https://github.com/omariosouto/crud-20230320/network)
   - Dica do **@BdSCunha**!
+- [Dicas para ver o Git no mundo real](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6)
 
 ### Programas
 - [Git](https://git-scm.com/downloads)
