@@ -1,1 +1,2 @@
-console.log("CRIANDO o CRUD");
+/* eslint-disable no-console */
+console.log('CRIANDO o CRUD');
