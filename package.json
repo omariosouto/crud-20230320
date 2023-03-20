@@ -1,0 +1,23 @@
+{
+  "name": "crud-20230320",
+  "version": "1.0.0",
+  "description": "## Comandos GitHub",
+  "main": "crud.js",
+  "scripts": {
+    "dev": "nodemon ./crud.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omariosouto/crud-20230320.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omariosouto/crud-20230320/issues"
+  },
+  "homepage": "https://github.com/omariosouto/crud-20230320#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
