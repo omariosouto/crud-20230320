@@ -18,7 +18,16 @@
   - origin: Pra onde vai (no caso ORIGIN é o GitHub adicionado no REMOTE)
   - main: Ramificação/Branch que queremos atualizar
 
+### E se eu comecei tudo pelo GitHub?
+- `git clone https://github.com/omariosouto/dicas-github-20230320.git`
+  - Devemos usar o comando GitClone apontando para o repositório novo
+
 ## Referências
 
 - [Melhorando o README do Projeto](https://www.youtube.com/watch?v=yMRSDdifGW8)
 - [Link do DISCORD](mariosouto.com/discord)
+
+### Programas
+- [Git](https://git-scm.com/downloads)
+- [NodeJS](https://nodejs.org/en)
+- [VSCode](https://code.visualstudio.com/)
