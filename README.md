@@ -2,8 +2,6 @@
 
 ## Comandos GitHub
 
-- `git init`
-  - Cria a pasta `.git` e inicializa o repositório
 - `git add` (Stage Changes)
   - Adiciona alterações dos arquivos em uma caixinha (Staged Changes)
   - Usando o `git add .`, adicionamos TODOs os arquivos alterados na caixinha
@@ -14,11 +12,9 @@
   - Nos mostra quais códigos/arquivos estamos guardando para mandar pro GitHub
 - `git remote add origin git@github.com:omariosouto/crud-20230320.git`
   - Sincroniza nosso projeto LOCAL com o REMOTO no GitHub
-- `git push -u origin main`
-  - origin: Pra onde vai (no caso ORIGIN é o GitHub adicionado no REMOTE)
-  - main: Ramificação/Branch que queremos atualizar
+
 
 ## Referências
 
 - [Melhorando o README do Projeto](https://www.youtube.com/watch?v=yMRSDdifGW8)
-- [Link do DISCORD](mariosouto.com/discord)
+- [Link do DISCORD](https://mariosouto.com/discord/)
